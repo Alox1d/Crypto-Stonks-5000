@@ -1,0 +1,2 @@
+rootProject.name='CryptoStonks5000'
+include ':app'
